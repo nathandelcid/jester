@@ -1,4 +1,4 @@
-# OpenML: ML from Scratch
+# Jester: ML from Scratch
 
 A comprehensive collection of machine learning algorithms and classifiers implemented from scratch in Python. This repository is designed to be highly customizable, educational, and experimental, allowing you to understand the inner workings of ML algorithms and modify them to meet your specific needs.
 
